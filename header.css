@@ -1,0 +1,70 @@
+.header {
+  height: 70px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.header div {
+  flex-basis: 150px;
+}
+
+.header div:nth-of-type(2) {
+  flex-basis: 500px;
+}
+
+.site-title-section{
+  margin-left: 90px;
+  margin-top: 20px;
+
+}
+
+.home{
+  margin: 0px;
+  display: inline-block;
+  color: rgb(102, 102, 102);
+  text-decoration: none;
+}
+
+.menu-section{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 24px;
+}
+
+.menu-section a {
+  margin: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb102, 102, 102;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(102, 102, 102);
+}
+
+.menu-section a:hover, .menu-section a:focus {
+  color: #E99C2E;
+}
+
+.buttons-section{
+  margin-right: 90px;
+  padding-top: 24px;
+}
+
+.search-button{
+  width: 20%;
+  color: rgb(102, 102, 102);
+}
+
+.setting-button{
+  width: 20%;
+  color: rgb(102, 102, 102);
+  padding-left: 15px;
+}
+
+.shopping-cart-button{
+  width: 20%;
+  color: rgb(102, 102, 102);
+  padding-left: 15px;
+}

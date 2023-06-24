@@ -1,0 +1,11 @@
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 30px;
+    margin-left: 90px;
+    margin-top: 40px;
+    width: 1170px;
+    height: 200px;
+    color:  rgb(109, 109, 109);
+    text-align: left;
+  }

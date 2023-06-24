@@ -1,0 +1,118 @@
+.populer-products{
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  column-gap: 30px;
+  margin-left: 90px;
+  width: 1170px;
+  height: 300px;
+}
+
+.populer-products-1{
+  background-color: rgb(246, 251, 255);
+  text-align: center;
+
+}
+
+.arm-chair-img{
+  padding-top: 50px;
+}
+
+.arm-chair{
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+  padding-top: 15px;
+}
+
+.arm-chair-info{
+  width: 250px;
+  padding-left: 15px;
+  padding-top: 15px;
+  line-height: 25px;
+  font-size: 15px;
+  color: rgb(167, 167, 167);
+}
+
+.arm-chair:hover {
+  color: #E99C2E;
+}
+
+.populer-products-2{
+  background-color: rgb(246, 251, 255);
+  width: 528px;
+}
+
+.populer-products-2-img{
+  margin-top: 50px;
+  margin-left: 40px;
+  position: absolute;
+}
+
+.populer-products-2-title{
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+  font-weight: bold;
+  display: inline-block;
+  width: 300px;
+  margin-left: 200px;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+.populer-products-2-info{
+  width: 300x;
+  color: rgb(167, 167, 167);
+  line-height: 25px;
+  display: inline-block;
+  margin-left: 200px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.product-price{
+  color: rgb(102, 102, 102);
+  font-size: 16px;
+  margin-left: 200px;
+}
+
+.populer-products-2-button{
+  margin-top: 20px;
+  margin-left: 200px;
+  background-color: transparent;
+  border: strong;
+  border-width: 1px;
+  color: rgb(102, 102, 102);
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.populer-products-2-button:hover{
+  background-color: rgb(75, 74, 74);
+  color: white;
+}
+
+.populer-products-3{
+  background-color: rgb(246, 251, 255);
+  text-align: center;
+}
+
+.populer-products-3-title{
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+  padding-top: 15px;
+}
+
+.populer-products-3-info{
+  width: 250px;
+  padding-left: 15px;
+  padding-top: 15px;
+  line-height: 25px;
+  font-size: 15px;
+  color: rgb(167, 167, 167);
+}

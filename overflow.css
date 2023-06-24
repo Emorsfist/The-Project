@@ -1,0 +1,60 @@
+.overflow-main{
+  width: 1149px;
+  height: 600px;
+  margin-top: 90px;
+}
+
+.overflow1{
+  position: absolute;
+}
+
+.overflow2{
+  position: relative;
+}
+.overflow-img{
+  position: absolute;
+  width: 1349px;
+  height: 600px;
+}
+
+.overflow-details-background{
+  height: 600px;
+  width: 450px;
+  background-color: rgba(44, 44, 44, 0.932);
+  position: absolute;
+}
+
+.overflow-details{
+  padding: 150px;
+  padding-left:60px;
+  height: 200px;
+  color: white;
+  position: relative;
+}
+
+.overflow-info{
+  padding-top: 10px;
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  width: 750px;
+  line-height: 35px;
+}
+
+.overflow-price{
+  font-size: 16px;
+  padding-top: 10px;
+}
+
+.overflow-button{
+  margin-top: 50px;
+  font-size: 16px;
+  background-color: #E99C2E;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+}
